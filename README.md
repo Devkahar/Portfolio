@@ -1,4 +1,4 @@
-# Clever Programmer ReactJS Portfolio Template      
+# Clever ProgrammerReactJS  Portfolio Template      
 
 ## 👇 WATCH THIS FIRST 👇
 ## https://tinyurl.com/customizeReactPortfolio
